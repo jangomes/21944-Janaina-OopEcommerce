@@ -107,26 +107,7 @@
                 </div>
             </div>
 
-             <div class="tab-content">
-                                <div id="PlaceNPay" class="tab-pane fade in active">
-                                    <h3>Place your order and Pay using our <a href="acceptedpayments" target="_blank">Accepted Payments</a> channels, Your order will be dispatched upon receiving full payment.</h3>
-                                    <asp:Button ID="BtnPlaceNPay" CssClass=" btn btn-info" Font-Size="Large" ValidationGroup="PaymentPage" runat="server" OnClick="BtnPlaceNPay_Click" Text="Checkout &raquo;" />
-                                </div>
-                                <div id="EasyPaisa" class="tab-pane fade">
-                                    <h3 class="center1">EasyPaisa Payment Gateway Coming Soon</h3>
-                                    <h4 class="center1">Until that you can send amount @ 0311 0000193</h4>
-                                   
-                                </div>
-                                <div id="JazzCash" class="tab-pane fade">
-                                    <h3 class="center1">JazzCash Payment Gateway Coming Soon</h3>
-                                    <h4 class="center1">Until that you can send amount @ 0300 1888193</h4>
-                                    
-                                </div>
-                                <div id="Div1" class="tab-pane fade">
-                                    <h3 class="center1">Cash on Delivery - Coming Soon</h3>
-                                   
-                                </div>
-                            </div>
+           
         </div>
 
 
